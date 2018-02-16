@@ -2,30 +2,29 @@
 
 == First time around
 
-fork
-clone
+fork +
+clone +
 define your upstream +
-define your origin (??)
-
+define your origin (??) +
 run 'git remote -v' to verify +
-git fetch upstream
-git merge upstream/master OR is this git rebase??
-git push origin master (you might have to define your branch in your origin with ' git push --set-upstream origin master')
--then do a test edit
-git add
-git commit
-git push
-create a PR (from either upstream GUI or your forked repo GUI)
+git fetch upstream +
+git merge upstream/master OR is this git rebase?? +
+git push origin master (you might have to define your branch in your origin with ' git push --set-upstream origin master') +
+-then do a test edit +
+git add +
+git commit +
+git push +
+create a PR (from either upstream GUI or your forked repo GUI) +
 
-.Subsequent work/edits:
+== Subsequent work/edits:
 
-git fetch
-git rebase
-git push
--then do my edits
-git add
-git commit
-git push
+git fetch +
+git rebase +
+git push +
+-then do my edits +
+git add +
+git commit +
+git push +
 
 .Unordered lists
 * For more details on writing reference modules, see the link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].
