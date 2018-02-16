@@ -33,3 +33,5 @@ git push +
 
 Use the 'tab' key to auto-complete your file name! +
 Use the Up and Down arrows to scroll through previous commands +
+Use the green Download button to copy the git link
+Anni loves Elizabeth
