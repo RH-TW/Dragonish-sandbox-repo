@@ -14,6 +14,7 @@ git push origin master (you might have to define your branch in your origin with
 git add
 git commit
 git push
+create a PR (from either upstream GUI or your forked repo GUI)
 
 .Subsequent work/edits:
 
