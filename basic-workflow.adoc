@@ -1,13 +1,10 @@
 // the most minimalist workflow possible, with concepts for each step.
 
-==First time around
+== First time around
 
 fork
-
 clone
-
-define your upstream
-
+define your upstream +
 define your origin (??)
 
 run 'git remote -v' to verify +
