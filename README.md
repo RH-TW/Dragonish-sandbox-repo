@@ -9,3 +9,5 @@ EAP team How To doc: https://gitlab.cee.redhat.com/ccs-internal-documentation/do
 Tana's Fedora Fest How To: https://docs.google.com/document/d/1d1wYOk5PdRpUMKBgkOoXZjDbgyA9p8TngChuu5ss9K0/edit?ts=5a327e32
 
 Where the RH templates live: https://github.com/redhat-documentation/modular-docs
+
+Kim's cheat sheet: https://mojo.redhat.com/blogs/riding_hat/2017/12/09/cheatsheet-for-bugzilla-workflow

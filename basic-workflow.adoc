@@ -9,7 +9,7 @@ define your origin (??)
 run 'git remote -v' to verify
 git fetch upstream
 git merge upstream/master OR is this git rebase??
-git push origin master
+git push origin master (you might have to define your branch in your origin with ' git push --set-upstream origin master')
 -then do a test edit
 git add
 git commit
