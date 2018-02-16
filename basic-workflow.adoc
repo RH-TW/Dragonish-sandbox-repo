@@ -26,18 +26,7 @@ git add +
 git commit +
 git push +
 
-.Unordered lists
-* For more details on writing reference modules, see the link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].
-* Use a consistent system for file names, IDs, and titles. For tips, see _Anchor Names and File Names_ in link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].
+== Important tips and tricks
 
-.Labeled lists
-Term 1:: Definition
-Term 2:: Definition
-
-.Tables
-[options="header"]
-|====
-|Column 1|Column 2|Column 3
-|Row 1, column 1|Row 1, column 2|Row 1, column 3
-|Row 2, column 1|Row 2, column 2|Row 2, column 3
-|====
+Use the 'tab' key to auto-complete your file name! +
+Use the Up and Down arrows to scroll through previous commands +
