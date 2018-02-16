@@ -1,12 +1,17 @@
 // the most minimalist workflow possible, with concepts for each step.
 
 .First time around
+-------
 
 fork
+
 clone
+
 define your upstream
+
 define your origin (??)
-run 'git remote -v' to verify
+
+run 'git remote -v' to verify +
 git fetch upstream
 git merge upstream/master OR is this git rebase??
 git push origin master (you might have to define your branch in your origin with ' git push --set-upstream origin master')
