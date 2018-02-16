@@ -1,6 +1,9 @@
 // the most minimalist workflow possible, with concepts for each step.
 
-== First time around
+== VERY basic workflows
+This topic provides the basic commands that you need to use.. for the concepts and further explanation behind each command, refer to link:workflow-with-concepts.adoc[Workflow with concepts].
+
+=== First time around
 
 fork +
 clone +
@@ -16,7 +19,7 @@ git commit +
 git push +
 create a PR (from either upstream GUI or your forked repo GUI) +
 
-== Subsequent work/edits:
+=== Subsequent work/edits:
 
 git fetch +
 git rebase +
@@ -26,7 +29,7 @@ git add +
 git commit +
 git push +
 
-== Important tips and tricks
+=== Important tips and tricks
 
 Use the 'tab' key to auto-complete your file name! +
 Use the Up and Down arrows to scroll through previous commands +
