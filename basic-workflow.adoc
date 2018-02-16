@@ -1,0 +1,35 @@
+// the most minimalist workflow possible, with concepts for each step.
+
+== VERY basic workflows
+This topic provides the basic commands that you need to use.. for the concepts and further explanation behind each command, refer to link:workflow-with-concepts.adoc[Workflow with concepts].
+
+=== First time around
+
+fork +
+clone +
+define your upstream +
+define your origin (??) +
+run 'git remote -v' to verify +
+git fetch upstream +
+git merge upstream/master OR is this git rebase?? +
+git push origin master (you might have to define your branch in your origin with ' git push --set-upstream origin master') +
+-then do a test edit +
+git add +
+git commit +
+git push +
+create a PR (from either upstream GUI or your forked repo GUI) +
+
+=== Subsequent work/edits:
+
+git fetch +
+git rebase +
+git push +
+-then do my edits +
+git add +
+git commit +
+git push +
+
+=== Important tips and tricks
+
+Use the 'tab' key to auto-complete your file name! +
+Use the Up and Down arrows to scroll through previous commands +
